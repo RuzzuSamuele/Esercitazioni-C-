@@ -1,0 +1,209 @@
+//------------------------------------------------Program.cs-----------------------------
+using Microsoft.VisualBasic.FileIO;
+using System;
+using System.Collections.Generic;
+
+namespace ListaVini
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var path = @"Z:\percorso ERP developer\Elenco_alfabetico_Vini_DOP_italianiPulito.csv";
+            string[] fields = null;
+            Dictionary<String, List<string>> listaVini = new Dictionary<string, List<string>>();
+            using (TextFieldParser csvParser = new TextFieldParser(path))
+            {
+
+                // Skip the row with the column names
+                csvParser.TextFieldType = FieldType.Delimited;
+                csvParser.SetDelimiters(";");
+
+                int i = 0;
+                while (!csvParser.EndOfData)
+                {
+
+                    // Read current line fields, pointer moves to the next line.
+                    fields = csvParser.ReadFields();
+                    if (fields.Length >= 5 && i > 1)
+                    {
+                        string NomeVino = fields[1];
+                        string Regione = fields[5];
+                        if (listaVini.ContainsKey(Regione))
+                            listaVini[Regione].Add(NomeVino);
+                        else
+                        {
+                            listaVini.Add(Regione, new List<string>() { NomeVino });
+                        }
+                    }
+                    i++;
+                }
+            }
+
+            
+            foreach (string regione in listaVini.Keys)
+            {
+          
+                foreach (string vino in listaVini[regione])
+                {
+                    if (vino.Contains("Chianti"))
+                        Console.Write(" Regione: {0}", regione);
+                }
+
+            }
+           
+        }
+    }
+}
+
+
+//------------------------------------------------------------Program.cs----------------------------------------------
+
+
+using Microsoft.VisualBasic.FileIO;
+using System;
+using System.Collections.Generic;
+
+namespace EsercizioVini
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var path = @"Z:\percorso ERP developer\Elenco_alfabetico_Vini_DOP_italianiPulito.csv";
+            string[] fields = null;
+            var listaVini = new List<Vino>();
+            using (TextFieldParser csvParser = new TextFieldParser(path))
+            {
+                // Skip the row with the column names
+                csvParser.TextFieldType = FieldType.Delimited;
+                csvParser.SetDelimiters(";");
+
+                int i = 0;
+                //Vino vino = null;
+                while (!csvParser.EndOfData)
+                {
+                    // Read current line fields, pointer moves to the next line.
+                    fields = csvParser.ReadFields();
+
+                    if (fields.Length >= 5 && i > 1)
+                    {
+                        string nome = fields[1].ToLower();
+                        string regione = fields[5].ToLower();
+                        listaVini.Add(new Vino(nome, regione));
+                    }
+                    i++;
+                }
+            }
+
+            Console.WriteLine("Inserisci \n 1- per cercare in quale regione viene prodotto un vino \n 2- per ottenere la lista di tutti i vini di una regione");
+            int scelta = Convert.ToInt32(Console.ReadLine());
+
+            switch (scelta)
+            {
+                case 1:
+                    Console.WriteLine("inserisci il nome del vino: ");
+                    string vinoDaCercare = Console.ReadLine().ToLower();
+                    /*
+                    string regione = cercaRegioneDelVinoSpecifico(listaVini, vinoDaCercare);
+                    if (regione != null)
+                        Console.WriteLine(regione);
+                    else
+                        Console.WriteLine("Vino non trovato in nessuna regione");
+                    */
+                    List<string> listaTemp = cercaRegioniPerVino(listaVini, vinoDaCercare);
+                    if (listaTemp.Count != 0)
+                        foreach (string regione in listaTemp)
+                            Console.WriteLine(regione);
+                    else
+                        Console.WriteLine("Vino non trovato in nessuna regione");
+                    break;
+                case 2:
+                    Console.WriteLine("inserisci il nome della regione per sapere quali vini produce: ");
+                    string regioneDaCercare = Console.ReadLine().ToLower();
+                    List<string> lista = cercaViniPerRegione(listaVini, regioneDaCercare);
+                    if (lista.Count != 0)
+                        foreach (string nome in lista)
+                            Console.WriteLine(nome);
+                    else
+                        Console.WriteLine("Regione non trovata");
+                    break;
+                default:
+                    break;
+            }
+            static List<string> cercaViniPerRegione(List<Vino> lista, string regione)
+            {
+                List<string> listaTemp = new List<string>();
+                foreach (Vino vino in lista)
+                {
+                    if (vino != null && vino.Regione.CompareTo(regione) == 0)
+                    {
+                        listaTemp.Add(vino.Nome);
+                    }
+                }
+                return listaTemp;
+            }
+
+            static String cercaRegioneDelVinoSpecifico(List<Vino> lista, string nomeVino)
+            {
+                foreach (Vino vino in lista)
+                {
+                    if (vino != null && vino.Nome.CompareTo(nomeVino) == 0)
+                        return vino.Regione;
+                }
+                return null;
+            }
+
+            static List<string> cercaRegioniPerVino(List<Vino> lista, string nomeVino)
+            {
+                List<string> listaTemp = new List<string>();
+                foreach (Vino vino in lista)
+                {
+                    if (vino != null && vino.Nome.Contains(nomeVino))
+                        listaTemp.Add(vino.Regione);
+                }
+                return listaTemp;
+            }
+
+
+        }
+    }
+}
+
+
+
+
+//----------------------------------------------------------------------Vino.cs----------------------------------------------------
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EsercizioVini
+{
+    class Vino
+    {
+        private string nome;
+        private string regione;
+
+        public Vino(string nome, string regione)
+        {
+            this.nome = nome;
+            this.regione = regione;
+        }
+
+        public string Nome 
+        {
+            get { return nome; } 
+        }
+
+        public string Regione 
+        {
+            get { return regione; } 
+        }
+    }
+}
+

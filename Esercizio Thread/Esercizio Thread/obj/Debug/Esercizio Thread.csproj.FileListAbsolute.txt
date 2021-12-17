@@ -1,0 +1,7 @@
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio Thread\Esercizio Thread\bin\Debug\Esercizio Thread.exe.config
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio Thread\Esercizio Thread\bin\Debug\Esercizio Thread.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio Thread\Esercizio Thread\bin\Debug\Esercizio Thread.pdb
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio Thread\Esercizio Thread\obj\Debug\Esercizio Thread.csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio Thread\Esercizio Thread\obj\Debug\Esercizio Thread.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio Thread\Esercizio Thread\obj\Debug\Esercizio Thread.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio Thread\Esercizio Thread\obj\Debug\Esercizio Thread.pdb

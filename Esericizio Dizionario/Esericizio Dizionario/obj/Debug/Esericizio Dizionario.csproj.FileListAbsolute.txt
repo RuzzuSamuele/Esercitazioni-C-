@@ -1,0 +1,7 @@
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esericizio Dizionario\Esericizio Dizionario\obj\Debug\Esericizio Dizionario.csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esericizio Dizionario\Esericizio Dizionario\obj\Debug\Esericizio Dizionario.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esericizio Dizionario\Esericizio Dizionario\bin\Debug\Esericizio Dizionario.exe.config
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esericizio Dizionario\Esericizio Dizionario\bin\Debug\Esericizio Dizionario.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esericizio Dizionario\Esericizio Dizionario\bin\Debug\Esericizio Dizionario.pdb
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esericizio Dizionario\Esericizio Dizionario\obj\Debug\Esericizio Dizionario.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esericizio Dizionario\Esericizio Dizionario\obj\Debug\Esericizio Dizionario.pdb

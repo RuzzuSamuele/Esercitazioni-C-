@@ -1,0 +1,10 @@
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Windows_Form_Lezione\Windows_Form_Lezione\bin\Debug\Windows_Form_Lezione.exe.config
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Windows_Form_Lezione\Windows_Form_Lezione\bin\Debug\Windows_Form_Lezione.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Windows_Form_Lezione\Windows_Form_Lezione\bin\Debug\Windows_Form_Lezione.pdb
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Windows_Form_Lezione\Windows_Form_Lezione\obj\Debug\Windows_Form_Lezione.csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Windows_Form_Lezione\Windows_Form_Lezione\obj\Debug\Windows_Form_Lezione.Login.resources
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Windows_Form_Lezione\Windows_Form_Lezione\obj\Debug\Windows_Form_Lezione.Properties.Resources.resources
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Windows_Form_Lezione\Windows_Form_Lezione\obj\Debug\Windows_Form_Lezione.csproj.GenerateResource.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Windows_Form_Lezione\Windows_Form_Lezione\obj\Debug\Windows_Form_Lezione.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Windows_Form_Lezione\Windows_Form_Lezione\obj\Debug\Windows_Form_Lezione.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Windows_Form_Lezione\Windows_Form_Lezione\obj\Debug\Windows_Form_Lezione.pdb
