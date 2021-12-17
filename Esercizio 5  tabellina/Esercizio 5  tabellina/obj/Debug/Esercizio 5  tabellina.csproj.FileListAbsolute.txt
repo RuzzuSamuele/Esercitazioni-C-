@@ -1,0 +1,7 @@
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 5  tabellina\Esercizio 5  tabellina\bin\Debug\Esercizio 5  tabellina.exe.config
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 5  tabellina\Esercizio 5  tabellina\bin\Debug\Esercizio 5  tabellina.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 5  tabellina\Esercizio 5  tabellina\bin\Debug\Esercizio 5  tabellina.pdb
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 5  tabellina\Esercizio 5  tabellina\obj\Debug\Esercizio 5  tabellina.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 5  tabellina\Esercizio 5  tabellina\obj\Debug\Esercizio 5  tabellina.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 5  tabellina\Esercizio 5  tabellina\obj\Debug\Esercizio 5  tabellina.pdb
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 5  tabellina\Esercizio 5  tabellina\obj\Debug\Esercizio 5  tabellina.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 4 stampa triangoli rettangoli\Esercizio 4 stampa triangoli rettangoli\bin\Debug\Esercizio 4 stampa triangoli rettangoli.exe.config
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 4 stampa triangoli rettangoli\Esercizio 4 stampa triangoli rettangoli\bin\Debug\Esercizio 4 stampa triangoli rettangoli.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 4 stampa triangoli rettangoli\Esercizio 4 stampa triangoli rettangoli\bin\Debug\Esercizio 4 stampa triangoli rettangoli.pdb
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 4 stampa triangoli rettangoli\Esercizio 4 stampa triangoli rettangoli\obj\Debug\Esercizio 4 stampa triangoli rettangoli.csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 4 stampa triangoli rettangoli\Esercizio 4 stampa triangoli rettangoli\obj\Debug\Esercizio 4 stampa triangoli rettangoli.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 4 stampa triangoli rettangoli\Esercizio 4 stampa triangoli rettangoli\obj\Debug\Esercizio 4 stampa triangoli rettangoli.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizio 4 stampa triangoli rettangoli\Esercizio 4 stampa triangoli rettangoli\obj\Debug\Esercizio 4 stampa triangoli rettangoli.pdb

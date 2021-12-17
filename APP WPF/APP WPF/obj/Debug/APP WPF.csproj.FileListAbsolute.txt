@@ -1,0 +1,14 @@
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\bin\Debug\APP WPF.exe.config
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\bin\Debug\APP WPF.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\bin\Debug\APP WPF.pdb
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\obj\Debug\APP WPF.csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\obj\Debug\MainWindow.baml
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\obj\Debug\MainWindow.g.cs
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\obj\Debug\App.g.cs
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\obj\Debug\APP WPF_MarkupCompile.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\obj\Debug\APP WPF.g.resources
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\obj\Debug\APP_WPF.Properties.Resources.resources
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\obj\Debug\APP WPF.csproj.GenerateResource.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\obj\Debug\APP WPF.csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\obj\Debug\APP WPF.exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\APP WPF\APP WPF\obj\Debug\APP WPF.pdb

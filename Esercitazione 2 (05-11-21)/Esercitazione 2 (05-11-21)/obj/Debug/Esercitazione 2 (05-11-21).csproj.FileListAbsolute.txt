@@ -1,0 +1,7 @@
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercitazione 2 (05-11-21)\Esercitazione 2 (05-11-21)\obj\Debug\Esercitazione 2 (05-11-21).csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercitazione 2 (05-11-21)\Esercitazione 2 (05-11-21)\bin\Debug\Esercitazione 2 (05-11-21).exe.config
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercitazione 2 (05-11-21)\Esercitazione 2 (05-11-21)\bin\Debug\Esercitazione 2 (05-11-21).exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercitazione 2 (05-11-21)\Esercitazione 2 (05-11-21)\bin\Debug\Esercitazione 2 (05-11-21).pdb
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercitazione 2 (05-11-21)\Esercitazione 2 (05-11-21)\obj\Debug\Esercitazione 2 (05-11-21).exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercitazione 2 (05-11-21)\Esercitazione 2 (05-11-21)\obj\Debug\Esercitazione 2 (05-11-21).pdb
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercitazione 2 (05-11-21)\Esercitazione 2 (05-11-21)\obj\Debug\Esercitazione 2 (05-11-21).csproj.AssemblyReference.cache

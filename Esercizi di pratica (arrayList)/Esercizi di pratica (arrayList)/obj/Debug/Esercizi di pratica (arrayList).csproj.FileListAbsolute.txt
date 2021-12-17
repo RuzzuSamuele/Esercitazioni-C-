@@ -1,0 +1,7 @@
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizi di pratica (arrayList)\Esercizi di pratica (arrayList)\bin\Debug\Esercizi di pratica (arrayList).exe.config
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizi di pratica (arrayList)\Esercizi di pratica (arrayList)\bin\Debug\Esercizi di pratica (arrayList).exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizi di pratica (arrayList)\Esercizi di pratica (arrayList)\bin\Debug\Esercizi di pratica (arrayList).pdb
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizi di pratica (arrayList)\Esercizi di pratica (arrayList)\obj\Debug\Esercizi di pratica (arrayList).csproj.AssemblyReference.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizi di pratica (arrayList)\Esercizi di pratica (arrayList)\obj\Debug\Esercizi di pratica (arrayList).csproj.CoreCompileInputs.cache
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizi di pratica (arrayList)\Esercizi di pratica (arrayList)\obj\Debug\Esercizi di pratica (arrayList).exe
+Z:\percorso ERP developer\alunni\Ruzzu Samuele\File codici VisualStudio\Esercizi di pratica (arrayList)\Esercizi di pratica (arrayList)\obj\Debug\Esercizi di pratica (arrayList).pdb
